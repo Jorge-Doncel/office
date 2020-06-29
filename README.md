@@ -1,6 +1,6 @@
 # Data Analysis to choose a new office location
 
-![The office]()
+![The office](https://github.com/Jorge-Doncel/office/blob/master/input/Captura%20de%20pantalla%20de%202020-06-29%2017-11-09.png)
 
 ## Introduction
 
@@ -87,4 +87,4 @@ Finally, I have located my future new office in the mean location of all places 
 
 My future office will be in MONTGOMERY ST 44 ('latitude': 37.78931154002931, 'longitude': -122.40202634116092).
 
-![New Office]()
+![New Office](https://github.com/Jorge-Doncel/office/blob/master/input/the-office-1200.jpg)
