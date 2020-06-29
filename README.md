@@ -74,7 +74,7 @@ I have used [FourSquare Api](https://developer.foursquare.com/docs/places-api/) 
 
 ## Data Processing
 
-I have selected the offices of other companies with near Starbucks, Vegan Resturants, Basketball Stadiums, Parks and NightClubs. 
+I have selected the offices of other companies with near Starbucks, Vegan Resturants, Basketball Stadiums, Parks and NightClubs. I used queries and [categoryID](https://developer.foursquare.com/docs/build-with-foursquare/categories/)
 
 For Starbucks and vegan restaurants, I've selected a 100-meter radius so my employees don't have to go far away from the office. For activities outside working hours, I have selected a radius of 1km. 
 
@@ -87,8 +87,4 @@ Finally, I have located my future new office in the mean location of all places 
 
 My future office will be in MONTGOMERY ST 44 ('latitude': 37.78931154002931, 'longitude': -122.40202634116092).
 
-## Study topics
-
-From our results, the reason for this increase in cases in Australia during the 2010's could be studied.
-
-Another point that could be discussed is the awareness of people towards shark attacks and their behaviour around them
+![New Office]()
