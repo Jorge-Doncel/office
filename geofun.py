@@ -11,7 +11,6 @@ def transformToGeoPoint(s):
     }
     
 
-clean_offices["geopoint"] = clean_offices.apply(transformToGeoPoint, axis=1)
 
 def geocode(address):
     res = requests.get(f"https://geocode.xyz/{address}", params={"json":1})
